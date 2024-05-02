@@ -64,11 +64,9 @@ You can also import the functionality into your own Python projects:
 3. Use the `common_topics` function to analyze URLs:
 
     ```python
-    topics = common_topics('http://example.com')
+    topics = common_topics('http://www.cnn.com/2013/06/10/politics/edward-snowden-profile/')
     print("Identified Topics:", topics)
     ```
-
-### Example Output
 
 ## Example Output
 
