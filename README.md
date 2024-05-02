@@ -72,5 +72,5 @@ You can also import the functionality into your own Python projects:
 
 Below is an example of how the Web Page Topic Extractor processes a given URL and outputs the identified topics:
 
-- **URL**: `http://www.cnn.com/2013/06/10/politics/edward-snowden-profile/
+- **URL**: http://www.cnn.com/2013/06/10/politics/edward-snowden-profile/
 - **Identified Topics**: ['cnn', 'ad', 'video', 'snowden', 'nsa']
